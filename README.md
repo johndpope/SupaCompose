@@ -31,7 +31,7 @@ val client = createSupabaseClient {
 }
 ```
 
-# Features
+# Features 
 
 #### Core
 
